@@ -1,2 +1,2 @@
 # Algorithms
-Graph algorithms
+C++ implementation of some graph algorithms
